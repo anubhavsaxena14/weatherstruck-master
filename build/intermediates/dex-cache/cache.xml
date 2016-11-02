@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_f561ec3413382619c17c1de43fee3b3afec1f3e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/anubhav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_c09d98330177fb71704f677ce8b9fb627556e5ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_13a3da9f567f4ce78ed5055540bfcd949fb98320/classes.dex" />
+    </item>
+    <item
+        jar="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_2035094819ca96322d22e182548e5beece51270c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="210b9af8f4f2dbe52f25a3f58a6167fd204a8422">
+        <dex dex="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e0fd1e871516050fe5ea64f2de18aa2eed64817/classes.dex" />
+    </item>
+    <item
+        jar="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66f91f077206c6678c9b1478adcf7817f7580933">
+        <dex dex="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4bf62d1ae6441e8b5688f19840edddae18bb48de/classes.dex" />
+    </item>
+
+</items>

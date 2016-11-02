@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="41212380785976"
+    token="8403968914143277913" >
+
+    <task
+        name="javac"
+        duration="1351" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="332" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="41212380785976" >
+        <artifact
+            location="/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

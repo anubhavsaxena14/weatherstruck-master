@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/res/merged/debug/menu/detailfragment.xml",
+        "source": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/src/main/res/menu/detailfragment.xml"
+    },
+    {
+        "merged": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/res/merged/debug/menu/forecast_fragment.xml",
+        "source": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/src/main/res/menu/forecast_fragment.xml"
+    },
+    {
+        "merged": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/anubhav/AndroidStudioProjects/WeatherStruck/app/src/main/res/menu/main.xml"
+    }
+]
